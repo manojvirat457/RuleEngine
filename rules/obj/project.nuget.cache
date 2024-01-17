@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nHMiqxhgzY25nyVgnQgjSMZ0r+/p4XDsz5XlMTtfD6nwDVgVpJzm5tc28G7vVF9KHNoe4lAkpmS8OcV3bWB7iw==",
+  "success": true,
+  "projectFilePath": "G:\\RuleEngine\\RuleEngine\\rules\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manoj\\.nuget\\packages\\dynamicexpresso.core\\2.16.1\\dynamicexpresso.core.2.16.1.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

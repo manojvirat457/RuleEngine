@@ -1,0 +1,12 @@
+G:\RuleEngine\RuleEngine\rules\bin\Debug\net6.0\rules.deps.json
+G:\RuleEngine\RuleEngine\rules\bin\Debug\net6.0\rules.dll
+G:\RuleEngine\RuleEngine\rules\bin\Debug\net6.0\rules.pdb
+G:\RuleEngine\RuleEngine\rules\obj\Debug\net6.0\rules.csproj.AssemblyReference.cache
+G:\RuleEngine\RuleEngine\rules\obj\Debug\net6.0\rules.GeneratedMSBuildEditorConfig.editorconfig
+G:\RuleEngine\RuleEngine\rules\obj\Debug\net6.0\rules.AssemblyInfoInputs.cache
+G:\RuleEngine\RuleEngine\rules\obj\Debug\net6.0\rules.AssemblyInfo.cs
+G:\RuleEngine\RuleEngine\rules\obj\Debug\net6.0\rules.csproj.CoreCompileInputs.cache
+G:\RuleEngine\RuleEngine\rules\obj\Debug\net6.0\rules.dll
+G:\RuleEngine\RuleEngine\rules\obj\Debug\net6.0\refint\rules.dll
+G:\RuleEngine\RuleEngine\rules\obj\Debug\net6.0\rules.pdb
+G:\RuleEngine\RuleEngine\rules\obj\Debug\net6.0\ref\rules.dll
